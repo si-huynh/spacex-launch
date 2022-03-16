@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`fetchUpComing 1. fetchUpComing should be return response json successfully 1`] = `
+Object {
+  "json": [Function],
+  "status": 200,
+}
+`;
